@@ -1,0 +1,38 @@
+{
+    "rows": [
+      ["Crohn", "Tulisokibart", "Merck", "TL1A", "Pediatric"],
+      ["Crohn's disease", "Ustekinumab", "JnJ", "Anti-IL-12/23", "Paediatric"],
+      ["IBD", "Guselkumab", "Prometheus", "Interleukin 23 antagonist", "Intestinal ultrasound"],
+      ["inflammatory bowel disease", "Upadacitinib", "AbbVie", "JAK inhibitor", "CDST"],
+      ["Ulcerative Colitis", "Risankizumab", "Eli Lilly", "S1PR modulators", "Artificial Intelligence"],
+      ["Ulcerative", "Mirikizumab", "BMS", "Anti TNF", "Machine Learning"],
+      ["", "Ozanimod", "Pfizer", "MiRNA-124 expression stimulants", "ultrasound"],
+      ["", "Etrasimod", "Celltrion", "alpha4ß7 integrin", "Clinical Decision support tool"],
+      ["", "CT-P13", "Abivax", "TYK2 inhibitor", "Clinical decision"],
+      ["", "ABX-464", "Morphic", "CCR6 antagonist", "IUS"],
+      ["", "MORF-057", "Ventyx", "Janus kinase 3 inhibitor", "Combination"],
+      ["", "VTX958", "Sanofi", "Janus kinase 1 inhibitor", "Meta-analysis"],
+      ["", "TEV-48574", "UCB", "Apoptosis stimulants", "Comparative"],
+      ["", "Humira", "Takeda", "Alpha4beta1 integrin", "Sequencing"],
+      ["", "PF-07054894", "Reistone", "Transforming growth factor beta receptor 1", "Comparison"],
+      ["", "PF-07261271", "Altru Bio", "Kinase inhibitor", "Fatigue"],
+      ["", "Ritlecitinib", "Biogen", "Cannabinoid agonist", "Adolescent"],
+      ["", "PF-06480605", "Agomab", "ROR-gamma-t agonist", ""],
+      ["", "Infliximab", "Boehringer", "PPARg Partial Agonist", ""],
+      ["", "Cimzia", "Incannex", "aIL23p19 + aTNF", ""],
+      ["", "Golimumab", "Medibiofarma", "Restore CD8 T cell function", ""],
+      ["", "Vedolizumab", "EA Pharma", "Targeting gene A", ""],
+      ["", "SHR0302", "Gilead", "CD30 ligand", ""],
+      ["", "Neihulizumab", "Spyre", "Pegylated human adrenomedullin", ""],
+      ["", "TAK-279", "Mozart", "Targets T cells subset", ""],
+      ["", "Tysabri", "Athos", "TREM-1 antibody", ""],
+      ["", "AGMB-129", "Syneos", "Ion channel protein Kv1.3 inh", ""]
+    ],
+    "keywords": [
+      "Indication",
+      "Asset",
+      "Company Name",
+      "MoA",
+      "Other Keywords"
+    ]
+  }
